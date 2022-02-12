@@ -1,0 +1,6 @@
+module Pods_pickcl {
+  umbrella header "Pods-pickcl-umbrella.h"
+
+  export *
+  module * { export * }
+}

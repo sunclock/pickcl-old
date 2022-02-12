@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../../../Downloads/IBM_Plex_Sans_KR/IBMPlexSansKR-Bold.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../Downloads/IBM_Plex_Sans_KR/IBMPlexSansKR-ExtraLight.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../Downloads/IBM_Plex_Sans_KR/IBMPlexSansKR-Light.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../Downloads/IBM_Plex_Sans_KR/IBMPlexSansKR-Medium.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../Downloads/IBM_Plex_Sans_KR/IBMPlexSansKR-Regular.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../Downloads/IBM_Plex_Sans_KR/IBMPlexSansKR-SemiBold.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../Downloads/IBM_Plex_Sans_KR/IBMPlexSansKR-Thin.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../Downloads/IBM_Plex_Sans_KR/OFL.txt">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
